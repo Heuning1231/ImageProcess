@@ -4,4 +4,5 @@ numpy
 pandas
 Pillow
 matplotlib
-face-recognition
+face-recognition==1.3.0
+dlib-bin
